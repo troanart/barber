@@ -1,1 +1,1 @@
-# barber
+#Barbershop Landing Page
